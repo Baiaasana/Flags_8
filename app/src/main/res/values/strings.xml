@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="signIn">Don\'t have an account? <font color="#05C149"> Sign in</font></string>
+    <string name="HearMe">Listen to the best music everyday with <font  color="#05C149"> Hearme</font>  now!</string>
+    <string name="get_started">Get Started</string>
+    <string name="let_s_you_in">Let\'s you in</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="sign_in_with_password">Sign in with password</string>
+</resources>
